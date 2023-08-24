@@ -1,3 +1,4 @@
+from __future__ import unicode_literals, division, absolute_import, print_function
 import pandas as pd
 import json
 
@@ -50,7 +51,7 @@ These variables are documented below.
 .. _IAST: http://en.wikipedia.org/wiki/IAST
 """
 
-from __future__ import unicode_literals, division, absolute_import, print_function
+
 import six
 
 # Brahmic schemes
