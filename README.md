@@ -32,6 +32,6 @@ python transliteration.py --filename sample.xlsx --lang hi
 ```
 ## Hugging face demo
 
-check https://tttarun-jarvis-transliteration.hf.space/ for no-code usage
+will upload hf hub demo link soon for no code use
 
 ### Check .ipynb file for step-by-step tinkering
