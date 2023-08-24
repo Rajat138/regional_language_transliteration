@@ -1,5 +1,5 @@
 ---
-title: Jarvis Transliteration
+title: Indian regional language Transliteration
 emoji: 🐨
 colorFrom: pink
 colorTo: yellow
@@ -17,8 +17,6 @@ Transliterate English to Indian language or vice-versa
 ## Setup
 ```
 #Clone repository
-git clone https://github.com/jarvis-data-science/indic_transliteration.git
-cd indic_transliteration
 
 #create environment
 virtualenv -p python3 .
@@ -31,7 +29,10 @@ pip install -r requirements.txt
 python transliteration.py --filename sample.xlsx --lang hi
 ```
 ## Hugging face demo
+for no code demo trail go to:
+https://huggingface.co/spaces/rajat-raturi/Indian-regional-lang-transliteration
+id: rajat
+password: rajat007
 
-will upload hf hub demo link soon for no code use
 
 ### Check .ipynb file for step-by-step tinkering
